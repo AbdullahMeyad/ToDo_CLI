@@ -37,7 +37,7 @@ To run this application, ensure you have:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/todo-cli-app.git
+   git clone [https://github.com/your-username/todo-cli-app](https://github.com/AbdullahMeyad/ToDo_CLI).git
    cd todo-cli-app
    ```
 
